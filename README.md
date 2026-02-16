@@ -41,9 +41,9 @@
 
 ## 🚀 Quick Start
 
-1. Copy the script from `main.lua`
-2. Paste into your favorite Roblox executor
-3. Press **INSERT** to open the menu
+1. Copy the script from underside
+2. Paste into your Roblox executor
+3. Get the key or Get some Free key in the discord #gift
 4. Enjoy!
 
 ```lua
