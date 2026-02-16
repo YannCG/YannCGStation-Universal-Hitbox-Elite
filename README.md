@@ -47,5 +47,5 @@
 4. Enjoy!
 
 ```lua
--- YannCG Elite (paste full script here or load from raw link)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YOUR_USERNAME/YannCG-Elite/main/main.lua"))()
+-- YannCG Elite
+loadstring(game:HttpGet("https://api.jnkie.com/api/v1/luascripts/public/eca112dc496b943aac85efe525c25bfa3232f79d5ab8dbadf2bafcefc847647b/download"))()
